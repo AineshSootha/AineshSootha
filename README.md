@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AineshSootha
-- 👾 Check out my website: ainesh.co
+- 👾 Check out my website: [ainesh.co](https://ainesh.co)
 
 <!---
 AineshSootha/AineshSootha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
